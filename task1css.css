@@ -1,0 +1,35 @@
+/* *{
+        font-weight: lighter;
+      } */
+tr {
+  background-color: lightblue;
+}
+center {
+  font-weight: 600;
+}
+th {
+  font-weight: 100;
+}
+.temp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 100vh;
+}
+table {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+}
+tr,
+th {
+  border-width: 2px;
+  border-style: outset;
+  border-color: black;
+  border-radius: 10px;
+}
+table {
+  background-color: lightblue;
+}
