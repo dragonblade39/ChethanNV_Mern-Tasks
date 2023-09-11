@@ -10,7 +10,6 @@ textarea {
   width: 160px;
   height: 50px;
 }
-
 select {
   background-color: lightgray;
 }
@@ -75,4 +74,4 @@ button {
   margin-top: 90px;
   height: 580px;
   background-color: #a22b55;
-}]
+}
